@@ -1,6 +1,14 @@
 {
   "packs": [
-    "Konata.json"
+    "Konata.json",
+    "Anime_Hugs_and_Kisses.json",
+    "Hatsune_Miku.json",
+    "Izzymojis.json",
+    "Mekakucity_Actors.json",
+    "Menhera-chan.json",
+    "White_Cat_Girl.json",
+    "Willy_Typing.json",
+    "Yuri-ish_Stickers.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
